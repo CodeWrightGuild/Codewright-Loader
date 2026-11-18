@@ -1,0 +1,5 @@
+{
+  "plugins": [
+    { "name": "ACCPLugin", "version": "1.0.0", "sha256": "PASTE_HASH_HERE" }
+  ]
+}
